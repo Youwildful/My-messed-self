@@ -1,0 +1,4 @@
+Conversion Functions:
+- Learn python Data storage
+- Learn machine learning
+- have fun
